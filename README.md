@@ -11,7 +11,6 @@ don't impose a particular implementation on the consuming application.
 
  * https://rubygems.org/gems/toml
  * https://rubygems.org/gems/toml-ruby
- * https://rubygems.org/gems/toml_parser-ruby
  * https://rubygems.org/gems/toml2
 
 ## Seriously?
