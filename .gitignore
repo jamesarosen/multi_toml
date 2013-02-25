@@ -1,2 +1,3 @@
-Gemspec.lock
 /*.gem
+/.bundle
+/Gemspec.lock
